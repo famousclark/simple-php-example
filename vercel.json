@@ -18,8 +18,8 @@
       "dest": "/api/tutorial.php"
     },
     {
-      "src": "/coinFlip",
-      "dest": "/api/coinFlip.php"
+      "src": "/coin",
+      "dest": "/api/coin.php"
     },
     {
       "src": "/public/(.*)",
